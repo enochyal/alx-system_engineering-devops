@@ -1,2 +1,3 @@
 #!/bin/bash
-0 string SCHOOL school
+0_string_SCHOOL school
+!:mime school
