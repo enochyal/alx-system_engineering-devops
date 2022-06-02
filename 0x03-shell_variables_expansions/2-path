@@ -1,2 +1,2 @@
-touch 2-path
+#!/bin/bash
 PATH=$PATH:/action
